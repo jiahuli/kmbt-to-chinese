@@ -1,4 +1,4 @@
-# kmbt-to-chinese
+# number-readable
 
 > ⚠️ 此项目代码由 DeepSeek 生成，人工仅做审核与微调。
 
