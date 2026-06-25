@@ -1,0 +1,9 @@
+# PyInstaller 构建残留
+build/
+dist/
+*.spec
+__pycache__/
+*.pyc
+
+# Claude Code
+.claude/
