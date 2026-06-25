@@ -1,4 +1,4 @@
-# number-readable
+# NumberReadable CN
 
 > ⚠️ 此项目代码由 DeepSeek 生成，人工仅做审核与微调。
 
